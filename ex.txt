@@ -1,0 +1,10 @@
+  // auto myIt = vec.begin();
+        // while(myIt != vec.end()){
+        //     Player currentPlayer = *myIt;
+        //     if(currentPlayer.getSpeed() < 5){
+        //         myIt = vec.erase(myIt);
+        //     }
+        //     else{
+        //         myIt++;
+        //     }
+        // }
